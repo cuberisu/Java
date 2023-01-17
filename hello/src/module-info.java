@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author cuber
+ *
+ */
+module hello {
+}
