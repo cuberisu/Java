@@ -1,0 +1,4 @@
+reporitory/**/bin/
+*.classpath
+*.project
+repository/**/.settings/
