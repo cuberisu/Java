@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author cuber
- *
- */
-module hello {
-}
